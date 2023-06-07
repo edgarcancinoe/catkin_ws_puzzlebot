@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/edgar/catkin_ws_puzzlebot/install/setup.sh

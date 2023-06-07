@@ -1,0 +1,2 @@
+puzzlebot_movement
+-DCATKIN_DEVEL_PREFIX=/home/edgar/catkin_ws_puzzlebot/devel -DCMAKE_INSTALL_PREFIX=/home/edgar/catkin_ws_puzzlebot/install -G Unix Makefiles

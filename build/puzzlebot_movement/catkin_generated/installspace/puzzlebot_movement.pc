@@ -1,0 +1,8 @@
+prefix=/home/edgar/catkin_ws_puzzlebot/install
+
+Name: puzzlebot_movement
+Description: Description of puzzlebot_movement
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
